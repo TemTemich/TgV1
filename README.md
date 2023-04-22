@@ -27,3 +27,5 @@ After giving a unique name and if it gets accepted you will get a message someth
 ![image](readme/image_4.png)
 
 Here the token value will be different for you, we will use this token in our python code to make changes in our bot and make it just like we want, and add some commands in it
+# Бот виселица
+По команде "/start" приветствует пользователя, а по команде "/start_game" начинает игру
